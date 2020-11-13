@@ -2,8 +2,8 @@
 def display_board
   puts row = ["   ", "|", "   ", "|", "   "]
   puts separator = "------------"
-end 
+end
 
-display_board 
-display_board 
-display_board 
+display_board
+display_board
+display_board
